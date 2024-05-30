@@ -23,8 +23,8 @@ This project is a full-stack web application for a gym, built using React, Node.
   - `lucide-react` ( npm i lucide-react )
   - `axios` ( npm i axios )
   - `cors` ( npm i cors )
-  - `dotenv` ( npm i dotenv )
-  - `sendEmail` package for sending the message via contact form
+  - `dotenv` ( npm i dotenv )(z
+  - `nodemailer` package for sending the message via contact form ( npm i nodemailer )
 
 ## Installation
 
