@@ -1,0 +1,12 @@
+1) react-spinners
+2) react-toastify
+3) axios
+4) lucide-react
+5) The toFixed() method converts a number to a string. It rounds the string to a specified number of decimals.
+6) Forms :-
+    onChange
+    onSubmit
+    e.target.value
+    required
+7) <label></label>
+

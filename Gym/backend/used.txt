@@ -1,0 +1,13 @@
+
+1) cors - frontend backend ko connect krne ke liye
+   app.use(cors({
+    origin: [process.env.FRONTEND_URL],
+    methods: ["POST"],
+    credentials: true,
+}))
+2) dotenv  ( DONE )
+3) "type":"module",
+4) npm install nodemailer
+   Read the documentation of nodemailer
+    SMTP - Simple mail transfer protocol
+   
